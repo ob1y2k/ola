@@ -4,8 +4,8 @@ require 'facebook.php';
 
 // Create our Application instance (replace this with your appId and secret).
 $facebook = new Facebook(array(
-  'appId'  => '166632160019208',
-  'secret' => '95e806d3331f800882c53ab4cc87d817',
+  'appId'  => '',
+  'secret' => '',
   'cookie' => true,
 ));
 
