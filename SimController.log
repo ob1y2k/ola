@@ -1,0 +1,8 @@
+06:53:57 PM: Starting up simulation server...
+06:53:57 PM: Established socket listener at 127.0.0.1:7845 ...
+06:53:58 PM: Received application client connection request
+06:53:59 PM: socketDataHandler: [ProgressEvent type="socketData" bubbles=false cancelable=false eventPhase=2 bytesLoaded=78 bytesTotal=0]
+06:53:59 PM: Verified Simulation Header:
+06:53:59 PM:     Simulation token: 127.0.0.1:7845
+06:53:59 PM:     Protocol version: 1
+06:54:06 PM: Application client disconnected
